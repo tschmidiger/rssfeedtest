@@ -1,0 +1,114 @@
+
+<?xml version="1.0" encoding="utf-8" ?>
+
+<rss version="2.0"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+>
+  <channel>
+    <title>Most read - SWI swissinfo.ch</title>
+    <link>https://www.swissinfo.ch/eng</link>
+    <image>
+      <url>
+        https://www.swissinfo.ch/static/Themes/basic/img/logos/swi_logo_feed.png</url>
+      <title>Most read - SWI swissinfo.ch</title>
+      <link>https://www.swissinfo.ch/eng</link>
+    </image>
+    <description>SWI swissinfo.ch - swiss news and information platform about Switzerland, business, culture, sport, weather. swissinfo covers Switzerland from every angle in English with news and up-to-date information for a worldwide audience.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Dec 2017 08:43:15 GMT</lastBuildDate>
+    <copyright>Copyright 2017, SWI swissinfo.</copyright>
+    <ttl>60</ttl>
+<item>
+          <title>Migration series (part 4) - Which European countries attract the most immigrants?</title>
+          <link>https://www.swissinfo.ch/eng/business/migration-series_europe-s-immigration-balance-sheet/42495760?srg_evsource=newsletter&amp;ns_mchannel=email&amp;ns_source=swi-nl&amp;ns_campaign=nl-w[50]</link>
+          <guid>https://www.swissinfo.ch/eng/business/migration-series_europe-s-immigration-balance-sheet/42495760</guid>
+          <description>Europe&#039;s free movement of people accord is in the line of fire but which European countries have more people leaving than arriving?</description><source url="https://www.swissinfo.ch/eng/society">Society</source>
+                <pubDate>Tue, 5 Dec 2017 10:00:00 GMT</pubDate>
+          <dc:creator>Duc-Quang Nguyen</dc:creator>
+          <enclosure url="https://www.swissinfo.ch/image/42477710/3x2/305/203/faaadf51032091828e4183adfad96561/Wm/datastory_teaser.png" type="image/jpeg"/>
+        </item>
+      <item>
+          <title>Linking Swiss Alps peaks - ‘We called it the Horny Tour’</title>
+          <link>https://www.swissinfo.ch/eng/business/linking-swiss-alps-peaks_-we-called-it-the-horny-tour-/43736112?srg_evsource=newsletter&amp;ns_mchannel=email&amp;ns_source=swi-nl&amp;ns_campaign=nl-w[50]</link>
+          <guid>https://www.swissinfo.ch/eng/business/linking-swiss-alps-peaks_-we-called-it-the-horny-tour-/43736112</guid>
+          <description>Mountaineers can be quite inventive in the names they give their routes, as photographer Dan Patitucci explains in his description of this image.</description><source url="https://www.swissinfo.ch/eng/culture">Culture</source>
+                <pubDate>Sun, 10 Dec 2017 08:00:00 GMT</pubDate>
+          <dc:creator>Dan Patitucci</dc:creator>
+          <enclosure url="https://www.swissinfo.ch/image/43736230/3x2/305/203/ad2bcaa10cfc3bca9615407ff3124311/Nt/17sk0779--2--jpg.jpg" type="image/jpeg"/>
+        </item>
+      <item>
+          <title>Shades of compliance - Switzerland placed on EU tax ‘grey list’</title>
+          <link>https://www.swissinfo.ch/eng/business/shades-of-compliancy_switzerland-placed-on-eu-tax--grey-list-/43730114?srg_evsource=newsletter&amp;ns_mchannel=email&amp;ns_source=swi-nl&amp;ns_campaign=nl-w[50]</link>
+          <guid>https://www.swissinfo.ch/eng/business/shades-of-compliancy_switzerland-placed-on-eu-tax--grey-list-/43730114</guid>
+          <description>The European Union has deemed Switzerland to be partially compliant on tax matters.</description><source url="https://www.swissinfo.ch/eng/business">Business</source>
+                <pubDate>Tue, 5 Dec 2017 13:35:00 GMT</pubDate>
+          <dc:creator>swissinfo.ch and agencies, swissinfo.ch and agencies/mga</dc:creator>
+          <enclosure url="https://www.swissinfo.ch/image/43730112/3x2/305/203/afca74e033c68ddf6d6411b609e55db9/tS/145463957-jpg.jpg" type="image/jpeg"/>
+        </item>
+      <item>
+          <title>Brexit - Watch the Swiss border for a warning on trade</title>
+          <link>https://www.swissinfo.ch/eng/business/brexit_watch-the-swiss-border-for-a-warning-on-trade/43735736?srg_evsource=newsletter&amp;ns_mchannel=email&amp;ns_source=swi-nl&amp;ns_campaign=nl-w[50]</link>
+          <guid>https://www.swissinfo.ch/eng/business/brexit_watch-the-swiss-border-for-a-warning-on-trade/43735736</guid>
+          <description>The Swiss-French border is efficient but border frictions have separated markets either side of the border to the detriment of consumers.</description><source url="https://www.swissinfo.ch/eng/business">Business</source>
+                <pubDate>Thu, 7 Dec 2017 08:17:00 GMT</pubDate>
+          <dc:creator>Chris Giles, Financial Times</dc:creator>
+          <enclosure url="https://www.swissinfo.ch/image/43735796/3x2/305/203/5c56ba54eb457962cc4183e610750dad/sn/217237241-jpg.jpg" type="image/jpeg"/>
+        </item>
+      <item>
+          <title>Automatic information exchange - ‘New Zealand is robbing us of our Swiss pensions’</title>
+          <link>https://www.swissinfo.ch/eng/business/automatic-information-exchange_-new-zealand-is-robbing-us-of-our-swiss-pensions-/43724856?srg_evsource=newsletter&amp;ns_mchannel=email&amp;ns_source=swi-nl&amp;ns_campaign=nl-w[50]</link>
+          <guid>https://www.swissinfo.ch/eng/business/automatic-information-exchange_-new-zealand-is-robbing-us-of-our-swiss-pensions-/43724856</guid>
+          <description>Swiss expats in New Zealand want to use Automatic Exchange of Information (AIE) to get a fair distribution of pensions in their adopted country.</description><source url="https://www.swissinfo.ch/eng/society">Society</source>
+                <pubDate>Mon, 4 Dec 2017 16:00:00 GMT</pubDate>
+          <dc:creator>Peter Siegenthaler, Financial Times</dc:creator>
+          <enclosure url="https://www.swissinfo.ch/image/43710386/3x2/305/203/f7bf6e5e9dd2b7b9a9c04b447f995847/nL/gettyimages-53043768-jpg.jpg" type="image/jpeg"/>
+        </item>
+      <item>
+          <title>Saudi money - Swiss banks step up reports of suspicious activity by Saudi clients</title>
+          <link>https://www.swissinfo.ch/eng/business/saudi-money_swiss-banks-step-up-reports-of-suspicious-activity-by-saudi-clients/43725472?srg_evsource=newsletter&amp;ns_mchannel=email&amp;ns_source=swi-nl&amp;ns_campaign=nl-w[50]</link>
+          <guid>https://www.swissinfo.ch/eng/business/saudi-money_swiss-banks-step-up-reports-of-suspicious-activity-by-saudi-clients/43725472</guid>
+          <description>Switzerland’s banks have begun reporting suspicious account activity among some of their Saudi Arabian clients.</description><source url="https://www.swissinfo.ch/eng/business">Business</source>
+                <pubDate>Mon, 4 Dec 2017 07:49:00 GMT</pubDate>
+          <dc:creator>Patrick Jenkins and Ralph Atkins, Financial Times</dc:creator>
+          <enclosure url="https://www.swissinfo.ch/image/43725498/3x2/305/203/fcc09771c92d1a55afe02ceaca8b198a/JH/323927580-jpg.jpg" type="image/jpeg"/>
+        </item>
+      <item>
+          <title>Sign language - Federer named ‘sign of the year’ by Swiss deaf society</title>
+          <link>https://www.swissinfo.ch/eng/society/sign-language_federer-named--sign-of-the-year--by-swiss-deaf-society/43733750?srg_evsource=newsletter&amp;ns_mchannel=email&amp;ns_source=swi-nl&amp;ns_campaign=nl-w[50]</link>
+          <guid>https://www.swissinfo.ch/eng/society/sign-language_federer-named--sign-of-the-year--by-swiss-deaf-society/43733750</guid>
+          <description>Following victories in Melbourne, Wimbledon and Basel this year, Roger Federer is “in everybody’s hands”, according to the Swiss Deaf Association.</description><source url="https://www.swissinfo.ch/eng/society">Society</source>
+                <pubDate>Wed, 6 Dec 2017 13:08:00 GMT</pubDate>
+          <dc:creator>swissinfo.ch and agencies, swissinfo.ch and agencies/ts</dc:creator>
+          <enclosure url="https://www.swissinfo.ch/image/43733792/3x2/305/203/aa5eddc9672a1f07b571a66ba86a980d/Ku/fed-jpg.jpg" type="image/jpeg"/>
+        </item>
+      <item>
+          <title>Bonus row - Tezos Foundation probe set to clear president Gevers</title>
+          <link>https://www.swissinfo.ch/eng/business/bonus-row_tezos-foundation-probe-set-to-clear-president-gevers/43742376?srg_evsource=newsletter&amp;ns_mchannel=email&amp;ns_source=swi-nl&amp;ns_campaign=nl-w[50]</link>
+          <guid>https://www.swissinfo.ch/eng/business/bonus-row_tezos-foundation-probe-set-to-clear-president-gevers/43742376</guid>
+          <description>swissinfo.ch has learnt that a Tezos Foundation internal inquiry is likely to clear president Johann Gevers of all allegations of financial impropriety and mismanagement made by Tezos founders Arthur and Kathleen Breitman.  Although the foundation’s probe has yet to be finalised, sources indicate that an independent audit appears to offer no evidence that Gevers tried to manipulate a bonus ...</description><source url="https://www.swissinfo.ch/eng/sci-tech">Sci &amp; Tech</source>
+                <pubDate>Sun, 10 Dec 2017 12:55:00 GMT</pubDate>
+          <dc:creator>Matthew Allen, swissinfo.ch</dc:creator>
+          <enclosure url="https://www.swissinfo.ch/image/43631396/3x2/305/203/241a6a3e3f387eed324cb3f8a628ef93/za/gevers-jpg.jpg" type="image/jpeg"/>
+        </item>
+      <item>
+          <title>Restructuring - General Electric to cut 1,400 Swiss jobs</title>
+          <link>https://www.swissinfo.ch/eng/business/restructuring_general-electric-to-cut-1-400-swiss-jobs/43736580?srg_evsource=newsletter&amp;ns_mchannel=email&amp;ns_source=swi-nl&amp;ns_campaign=nl-w[50]</link>
+          <guid>https://www.swissinfo.ch/eng/business/restructuring_general-electric-to-cut-1-400-swiss-jobs/43736580</guid>
+          <description>General Electric (GE) has announced plans to cut around a third of its workforce based in northern Switzerland.</description><source url="https://www.swissinfo.ch/eng/business">Business</source>
+                <pubDate>Thu, 7 Dec 2017 11:25:00 GMT</pubDate>
+          <dc:creator>SWI swissinfo.ch</dc:creator>
+          <enclosure url="https://www.swissinfo.ch/image/43736650/3x2/305/203/5211143d978be6368354d8414bc9dfd0/mB/326611732-jpg.jpg" type="image/jpeg"/>
+        </item>
+      <item>
+          <title>Bodenmann on the EEA vote - ‘The EU has developed better than Switzerland’</title>
+          <link>https://www.swissinfo.ch/eng/business/no-to-the-eea--25-years-on_-the-eu-has-developed-better-than-switzerland-/43730594?srg_evsource=newsletter&amp;ns_mchannel=email&amp;ns_source=swi-nl&amp;ns_campaign=nl-w[50]</link>
+          <guid>https://www.swissinfo.ch/eng/business/no-to-the-eea--25-years-on_-the-eu-has-developed-better-than-switzerland-/43730594</guid>
+          <description>Former president of the Social Democrat Party, Peter Bodenmann, talks about the momentous EEA vote, 25 years after the Swiss rejection.</description><source url="https://www.swissinfo.ch/eng/politics">Politics</source>
+                <pubDate>Wed, 6 Dec 2017 10:00:00 GMT</pubDate>
+          <dc:creator>Peter Siegenthaler, swissinfo.ch</dc:creator>
+          <enclosure url="https://www.swissinfo.ch/image/43718288/3x2/305/203/7e62663af3a2aebbf07c1e2bf94f3d05/hw/325768021-jpg.jpg" type="image/jpeg"/>
+        </item>
+      </channel>
+</rss>
